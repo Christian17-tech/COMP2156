@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Christian17-tech/COMP2156/static/css/main.27ca76a1.css",
-    "main.js": "/Christian17-tech/COMP2156/static/js/main.a02eb89e.js",
-    "static/js/453.f27d8bf6.chunk.js": "/Christian17-tech/COMP2156/static/js/453.f27d8bf6.chunk.js",
-    "index.html": "/Christian17-tech/COMP2156/index.html",
-    "main.27ca76a1.css.map": "/Christian17-tech/COMP2156/static/css/main.27ca76a1.css.map",
-    "main.a02eb89e.js.map": "/Christian17-tech/COMP2156/static/js/main.a02eb89e.js.map",
-    "453.f27d8bf6.chunk.js.map": "/Christian17-tech/COMP2156/static/js/453.f27d8bf6.chunk.js.map"
+    "main.css": "/COMP2156/static/css/main.27ca76a1.css",
+    "main.js": "/COMP2156/static/js/main.da88a65f.js",
+    "static/js/453.f27d8bf6.chunk.js": "/COMP2156/static/js/453.f27d8bf6.chunk.js",
+    "index.html": "/COMP2156/index.html",
+    "main.27ca76a1.css.map": "/COMP2156/static/css/main.27ca76a1.css.map",
+    "main.da88a65f.js.map": "/COMP2156/static/js/main.da88a65f.js.map",
+    "453.f27d8bf6.chunk.js.map": "/COMP2156/static/js/453.f27d8bf6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.27ca76a1.css",
-    "static/js/main.a02eb89e.js"
+    "static/js/main.da88a65f.js"
   ]
 }
