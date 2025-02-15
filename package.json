@@ -3,13 +3,16 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
+  "scripts": { 
+    "test": "echo \"Error: no test specified\"",
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "echo \"Error: no test specified\"",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
-  "repository": {
+    "homepage": "https://Christian17-tech.github.io/COMP2156", 
+    "repository": {
     "type": "git",
     "url": "git+https://github.com/Christian17-tech/COMP2156.git"
   },

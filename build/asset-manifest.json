@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Christian17-tech/COMP2156/static/css/main.27ca76a1.css",
+    "main.js": "/Christian17-tech/COMP2156/static/js/main.844c8513.js",
+    "static/js/453.f27d8bf6.chunk.js": "/Christian17-tech/COMP2156/static/js/453.f27d8bf6.chunk.js",
+    "index.html": "/Christian17-tech/COMP2156/index.html",
+    "main.27ca76a1.css.map": "/Christian17-tech/COMP2156/static/css/main.27ca76a1.css.map",
+    "main.844c8513.js.map": "/Christian17-tech/COMP2156/static/js/main.844c8513.js.map",
+    "453.f27d8bf6.chunk.js.map": "/Christian17-tech/COMP2156/static/js/453.f27d8bf6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27ca76a1.css",
+    "static/js/main.844c8513.js"
+  ]
+}
